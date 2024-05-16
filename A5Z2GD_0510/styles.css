@@ -1,0 +1,20 @@
+.fixed
+    {
+    position: fixed;
+    top: 50px;
+    right: 50px;
+    width: 300px;
+    height: 300px;
+    border: 10px solid #00FFFF;
+    background-color: #FFFFFF;
+    text-align: center;
+    }
+.fixed p
+    {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    }

@@ -1,0 +1,60 @@
+{
+    "kurzus": 
+        [
+        {
+        "targy": "Webkönyvtárak THE_00751_L_3_G",
+        "idopont":
+            {
+            "nap": "2024.05.10.",
+            "tol": "09:00",
+            "ig": "12:55"
+            },
+        "helyszin": "online",
+        "oktato": "Dr. Bednarik László",
+        "szak": "Szoftverfejlesztő mérnök",
+        "tipus": "Gyakorlat"
+        },
+        {
+        "targy": "Komputergrafika és képfeldolgozás THE_00752_L_3_K",
+        "idopont": 
+            {
+            "nap": "2024.05.10.",
+            "tol": "13:30",
+            "ig": "17:30"
+            },
+        "helyszin": "online",
+        "oktato": "Dr. Bednarik László",
+        "szak": "Szoftverfejlesztő mérnök",
+        "tipus": "Elmélet"
+        },
+        {
+        "targy": "Térinformatikai alapismeretek THE_00239_L_3_G",
+        "idopont":
+            {
+            "nap": "2024.05.17.",
+            "tol": "13:30",
+            "ig": "17:30"
+            },
+        "helyszin": "Tarcal Kutató Központ",
+        "oktato": "Varga Zsófia Krisztina",
+        "szak": "Szoftverfejlesztő mérnök",
+        "tipus": "Gyakorlat"
+        }
+        ],
+    "cim":
+        {
+        "iranyitoszam": "4600",
+        "varos": "Kisvárda",
+        "utca": "Csillag utca 7."
+        },
+    "telefonszam": [
+        {
+        "tipus": "vezetékes",
+        "szam": "+36:45/456-789"
+        },
+        {
+        "tipus": "mobil",
+        "szam": "+36:90/456-78-91"
+        }
+    ]
+}

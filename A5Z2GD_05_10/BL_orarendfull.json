@@ -1,0 +1,107 @@
+{
+    "kurzus": [
+      {
+        "targy": "Web programozás alapjai Lev.",
+        "idopont": {
+          "nap": "2024.04.19.",
+          "tol": "12:30",
+          "ig": "15:30"
+        },
+        "helyszin": "Online",
+        "oktato": "Dr. Bednarik László",
+        "szak": "Programtervező informatikus",
+        "tipus": "Ea./Gyk."
+      },
+      {
+        "targy": "Web programozás alapjai",
+        "idopont": {
+          "nap": "Hétfő",
+          "tol": "12:00",
+          "ig": "13:30"
+        },
+        "helyszin": "Inf/103",
+        "oktato": "Dr. Bednarik László",
+        "szak": "Mérnökinformatikus",
+        "tipus": "Gyakorlat"
+      },
+      {
+        "targy": "Web programozás alapjai",
+        "idopont": {
+          "nap": "Hétfő",
+          "tol": "14:00",
+          "ig": "15:30"
+        },
+        "helyszin": "Inf/103",
+        "oktato": "Dr. Bednarik László",
+        "szak": "Mérnökinformatikus",
+        "tipus": "Gyakorlat"
+      },
+      {
+        "targy": "Modern Adatbázis rendszerek",
+        "idopont": {
+          "nap": "Hétfő",
+          "tol": "15:30",
+          "ig": "17:00"
+        },
+        "helyszin": "Inf/103",
+        "oktato": "Dr. Bednarik László",
+        "szak": "Mérnöinformatikus",
+        "tipus": "Gyakorlat"
+      },
+      {
+        "targy": "Adatkezelés XML környezetben",
+        "idopont": {
+          "nap": "Kedd",
+          "tol": "12:00",
+          "ig": "13:30"
+        },
+        "helyszin": "XXXII.ea",
+        "oktato": "Dr. Bednarik László",
+        "szak": "MI, PTI",
+        "tipus": "Elmélet"
+      },
+      {
+        "targy": "Adatkezelés XML környezetben",
+        "idopont": {
+          "nap": "Szerda",
+          "tol": "14:00",
+          "ig": "15:30"
+        },
+        "helyszin": "Inf/101",
+        "oktato": "Dr. Bednarik László",
+        "szak": "Programtervező informatikus",
+        "tipus": "Gyakorlat"
+      },
+      {
+        "targy": "Adatkezelés XML környezetben",
+        "idopont": {
+          "nap": "Szerda",
+          "tol": "16.00",
+          "ig": "17:30"
+        },
+        "helyszin": "Inf/101",
+        "oktato": "Dr. Bednarik László",
+        "szak": "Programtervező informatikus",
+        "tipus": "Gyakorlat"
+      }
+    ],
+  
+    "cim":
+    {
+      "iranyitoszam": 3515,
+      "varos": "Miskolc",
+      "utca": "Egyetemváros"
+    },
+  
+    "telefonszam":
+    [
+      {
+        "tipus": "Vezetékes",
+        "szam": "0646 555-125"
+      },
+      {
+        "tipus": "Mobil",
+        "szam": "0670 555-4567"
+      }
+    ]
+  }
